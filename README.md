@@ -1,1 +1,1 @@
-# PO
+# Projekt na kurs Projektowanie oprogramowania.
