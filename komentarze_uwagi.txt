@@ -1,0 +1,2 @@
+PO - rzeczy do omówienia:
+- czas, zalogowanyUser - przypadki użycia, czy dodajemy opis do tego przypadku użycia
