@@ -1,2 +1,3 @@
 PO - rzeczy do omówienia:
-- czas, zalogowanyUser - przypadki użycia, czy dodajemy opis do tego przypadku użycia
+- AD - jak zrobic extend include, czy to podrzedne dzialanie ma wychodzic z nadrzednego i to nadrzedne jako activity ma sie pojawic w diagramie aktywnosci podrzednego
+- czy w podrzednych chmurkach robić start node?
