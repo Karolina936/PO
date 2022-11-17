@@ -2,3 +2,5 @@ PO - rzeczy do omówienia:
 - AD - jak zrobic extend include, czy to podrzedne dzialanie ma wychodzic z nadrzednego i to nadrzedne jako activity ma sie pojawic w diagramie aktywnosci podrzednego
 - czy w podrzednych chmurkach robić start node?
 - czy w klasie KATALOG może być ArrayList
+
+- przewodnik stylu, kolory, przechodzenie kolorów, ruch myszką z lewej do prawej lub z prawej do lewej.
